@@ -38,5 +38,5 @@ Before you begin, ensure you have installed:
 
 #### 1. Clone the repository
 ```bash
-git clone [https://github.com/hhanagouda/Blog.git](https://github.com/hhanagouda/Blog.git)
+git clone [https://github.com/hhanagouda/Blog.git](https://github.com/hanagouda/Blog.git)
 cd Blog
