@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace BlogAPI.Models.DTOs
+namespace BlogAPI.Models.DTOs.Requests
 {
     public class CommentRequestDtos
     {

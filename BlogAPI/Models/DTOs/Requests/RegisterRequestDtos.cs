@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace BlogAPI.Models.DTOs.User
+namespace BlogAPI.Models.DTOs.Requests
 {
     public class RegisterRequestDtos
     {

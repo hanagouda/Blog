@@ -1,4 +1,4 @@
-﻿namespace BlogAPI.Models.DTOs
+﻿namespace BlogAPI.Models.DTOs.Responses
 {
     public class PostResponseDtos
     {

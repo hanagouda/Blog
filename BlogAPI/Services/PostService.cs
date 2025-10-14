@@ -4,6 +4,8 @@ using BlogAPI.Data;
 using BlogAPI.Middleware;
 using BlogAPI.Models;
 using BlogAPI.Models.DTOs;
+using BlogAPI.Models.DTOs.Requests;
+using BlogAPI.Models.DTOs.Responses;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Query.SqlExpressions;

@@ -1,6 +1,5 @@
 ﻿using BlogAPI.Data;
 using BlogAPI.Models;
-using BlogAPI.Models.DTOs.User;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -10,6 +9,9 @@ using System.Text;
 using BCrypt.Net;
 using BlogAPI.Middleware;
 using AutoMapper;
+using BlogAPI.Models.DTOs.Requests;
+using BlogAPI.Models.DTOs.Responses;
+using BlogAPI.Models.DTOs;
 
 namespace BlogAPI.Services
 {

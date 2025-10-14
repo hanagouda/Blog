@@ -1,6 +1,8 @@
 ﻿using BlogAPI.Data;
 using BlogAPI.Models;
 using BlogAPI.Models.DTOs;
+using BlogAPI.Models.DTOs.Requests;
+using BlogAPI.Models.DTOs.Responses;
 using BlogAPI.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Authorization.Infrastructure;

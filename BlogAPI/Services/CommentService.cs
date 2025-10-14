@@ -1,10 +1,11 @@
 ﻿using AutoMapper;
 using BlogAPI.Data;
 using BlogAPI.Models;
-using BlogAPI.Models.DTOs;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using AutoMapper.QueryableExtensions;
+using BlogAPI.Models.DTOs.Requests;
+using BlogAPI.Models.DTOs.Responses;
 
 namespace BlogAPI.Services
 {

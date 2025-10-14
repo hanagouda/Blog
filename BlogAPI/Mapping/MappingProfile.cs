@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using BlogAPI.Models;
-using BlogAPI.Models.DTOs;
-using BlogAPI.Models.DTOs.User;
+using BlogAPI.Models.DTOs.Requests;
+using BlogAPI.Models.DTOs.Responses;
 
 namespace BlogAPI.Mapping
 {
