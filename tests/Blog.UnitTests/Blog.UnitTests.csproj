@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BlogAPI\BlogAPI.csproj" />
+    <ProjectReference Include="..\..\src\Blog.API\Blog.API.csproj" />
   </ItemGroup>
 
 </Project>
